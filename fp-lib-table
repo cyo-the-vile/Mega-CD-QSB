@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LIBRARIES)(type KiCad)(uri D:/kicad/LIBRARIES)(options "")(descr ""))
+  (lib (name "MCD QSB")(type KiCad)(uri "D:/kicad/MEGA CD/qsb/MCD QSB.pretty")(options "")(descr ""))
+  (lib (name qsb)(type KiCad)(uri "D:/kicad/MEGA CD/qsb")(options "")(descr ""))
+)
