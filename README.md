@@ -15,3 +15,6 @@ Gerber files include factory files required for flex PCB fabrication
 -V1 Tested and soldered to hardware but holes are too small for any widespread or retail use.  For testing and debugging it should be sufficient.
 
 -V2 has an added second layer for the flex PCB for GND and has not been tested yet.
+
+
+The FFC can be plugged into a breakout PCB to view BUS information on a logic anaylzer such as Quartus Signaltap or a Salae clone with sigrok software.
