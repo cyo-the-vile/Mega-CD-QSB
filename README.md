@@ -1,5 +1,5 @@
 # MCD-Optical-Drive-Emulator-QSB
-Flex PCB for installing ODE prototype inside a retro console, the Sega CD model 1
+Flex PCB for installing ODE prototype inside a retro console, the Sega CD model 1. It will mostly be used to analyze BUS traffic so an MCU, SoC or FPGA can mimic the CD rom DSP, MCU and i2s BUS while loading software from a FAT32 SD card.
 
 
 This is a 25 pin Flex PCB for installing a future optical drive emulator into the Mega CD model 1 console.
